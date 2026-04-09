@@ -90,3 +90,9 @@ Message your newly created bot to begin:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 *Please use this software responsibly and abide by Telegram's Terms of Service regarding mass-messaging and spam. The authors of Rezine AdBot take no responsibility for accounts restricted by excessive automation.*
+
+<div align="center">
+
+> If you enjoy this open-source project, please consider dropping a ⭐ on the repository!
+
+</div>
