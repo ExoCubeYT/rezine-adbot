@@ -48,14 +48,6 @@ You must fill out the `.env` file for the bot to run:
 * `API_ID` & `API_HASH` -> Get these by logging into [my.telegram.org](https://my.telegram.org) and creating an API development app.
 * `ADMIN_ID` -> Your personal Telegram numeric ID (get it from [@userinfobot](https://t.me/userinfobot)). Only you will be able to access the admin panel.
 
-   ```
-   BOT_TOKEN=your-bot-token-here
-   API_ID=your-api-id-here
-   API_HASH=your-api-hash-here
-   ADMIN_ID=your-numeric-admin-id
-   DB_PATH=data/bot.db
-   ```
-
 **4. Start the engine**
 ```bash
 python run.py
@@ -86,8 +78,11 @@ Message your newly created bot to begin:
 
 ---
 
-## Contributing
+## 📜 License & Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+**Rezine AdBot is distributed under the GNU General Public License v3.0 (GPLv3).**
+This ensures the project remains free and open-source forever. Any modifications, forks, or derivative projects built using this source code **must also be open-sourced under the same license**, and you must explicitly credit the original author.
 
 *Please use this software responsibly and abide by Telegram's Terms of Service regarding mass-messaging and spam. The authors of Rezine AdBot take no responsibility for accounts restricted by excessive automation.*
 
@@ -96,3 +91,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 > If you enjoy this open-source project, please consider dropping a ⭐ on the repository!
 
 </div>
+
