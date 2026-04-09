@@ -4,6 +4,8 @@
 
 # Rezine AdBot
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
+
 If you need to push a single message to hundreds of Telegram groups simultaneously using multiple accounts, you've found the right tool. 
 
 Built cleanly on Python, Telethon, and AIOSQLite, this bot automates the tedious process of forwarding and broadcasting marketing messages across your Telegram accounts. 
