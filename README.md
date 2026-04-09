@@ -30,7 +30,7 @@ You will need a computer or server with **Python 3.10+**.
 
 **1. Clone the codebase**
 ```bash
-git clone https://github.com/your-username/rezine-adbot.git
+git clone https://github.com/exocubeyt/rezine-adbot.git
 cd rezine-adbot
 ```
 
