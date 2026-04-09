@@ -47,6 +47,14 @@ You must fill out the `.env` file for the bot to run:
 * `BOT_TOKEN` -> Get this by creating a new bot with [@BotFather](https://t.me/BotFather).
 * `API_ID` & `API_HASH` -> Get these by logging into [my.telegram.org](https://my.telegram.org) and creating an API development app.
 * `ADMIN_ID` -> Your personal Telegram numeric ID (get it from [@userinfobot](https://t.me/userinfobot)). Only you will be able to access the admin panel.
+example:
+   ```
+   BOT_TOKEN=your-bot-token-here
+   API_ID=your-api-id-here
+   API_HASH=your-api-hash-here
+   ADMIN_ID=your-numeric-admin-id
+   DB_PATH=data/bot.db
+   ```
 
 **4. Start the engine**
 ```bash
