@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/e7/d2/47/e7d24774fc8864ec7b22eff90d58bada.jpg" width="200" />
+<img src="https://i.pinimg.com/originals/2c/85/01/2c85015ad0b929bc0139f1e168533457.gif" width="200" />
 
 # 📢 Rezine AdBot (Open Source Edition)
 
